@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FixedWalletFunction.DAL.Contracts\FixedWalletFunction.DAL.Contracts.csproj" />
+    <ProjectReference Include="..\IWallet.BLL.Contracts\FixedWalletFunction.BLL.Contracts.csproj" />
+    <ProjectReference Include="..\Wallet.Common.Entities\Wallet.Common.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

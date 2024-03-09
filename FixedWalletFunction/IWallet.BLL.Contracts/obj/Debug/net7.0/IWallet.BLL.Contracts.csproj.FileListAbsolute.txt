@@ -1,0 +1,32 @@
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.deps.json
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.dll
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.pdb
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.dll
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.AssemblyReference.cache
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.AssemblyInfoInputs.cache
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.AssemblyInfo.cs
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.sourcelink.json
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.CopyComplete
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.dll
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\refint\IWallet.BLL.Contracts.dll
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.pdb
+C:\Users\student.TOP\Source\Repos\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\ref\IWallet.BLL.Contracts.dll
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.deps.json
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.dll
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\IWallet.BLL.Contracts.pdb
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.dll
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.AssemblyReference.cache
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.AssemblyInfoInputs.cache
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.AssemblyInfo.cs
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.CoreCompileInputs.cache
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.sourcelink.json
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.csproj.CopyComplete
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.dll
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\refint\IWallet.BLL.Contracts.dll
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\IWallet.BLL.Contracts.pdb
+D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\ref\IWallet.BLL.Contracts.dll

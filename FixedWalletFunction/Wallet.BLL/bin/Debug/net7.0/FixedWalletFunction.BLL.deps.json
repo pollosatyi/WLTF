@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "FixedWalletFunction.BLL/1.0.0": {
+        "dependencies": {
+          "FixedWalletFunction.BLL.Contracts": "1.0.0",
+          "FixedWalletFunction.DAL.Contracts": "1.0.0",
+          "Wallet.Common.Entities": "1.0.0"
+        },
+        "runtime": {
+          "FixedWalletFunction.BLL.dll": {}
+        }
+      },
+      "FixedWalletFunction.BLL.Contracts/1.0.0": {
+        "dependencies": {
+          "Wallet.Common.Entities": "1.0.0"
+        },
+        "runtime": {
+          "FixedWalletFunction.BLL.Contracts.dll": {}
+        }
+      },
+      "FixedWalletFunction.DAL.Contracts/1.0.0": {
+        "dependencies": {
+          "Wallet.Common.Entities": "1.0.0"
+        },
+        "runtime": {
+          "FixedWalletFunction.DAL.Contracts.dll": {}
+        }
+      },
+      "Wallet.Common.Entities/1.0.0": {
+        "runtime": {
+          "Wallet.Common.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FixedWalletFunction.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FixedWalletFunction.BLL.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FixedWalletFunction.DAL.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wallet.Common.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

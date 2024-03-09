@@ -1,0 +1,16 @@
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\bin\Debug\net7.0\FixedWalletFunction.DAL.Contracts.deps.json
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\bin\Debug\net7.0\FixedWalletFunction.DAL.Contracts.dll
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\bin\Debug\net7.0\FixedWalletFunction.DAL.Contracts.pdb
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.dll
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.csproj.AssemblyReference.cache
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.AssemblyInfoInputs.cache
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.AssemblyInfo.cs
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.csproj.CoreCompileInputs.cache
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.sourcelink.json
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.csproj.CopyComplete
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.dll
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\refint\FixedWalletFunction.DAL.Contracts.dll
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\FixedWalletFunction.DAL.Contracts.pdb
+D:\sergey t\FixedWalletFunction\FixedWalletFunction.DAL.Contracts\obj\Debug\net7.0\ref\FixedWalletFunction.DAL.Contracts.dll
