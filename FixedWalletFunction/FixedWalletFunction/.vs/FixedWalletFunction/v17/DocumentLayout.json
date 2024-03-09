@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42CABA3F-71B5-4BD1-B0E2-6A4DF5F70EA8}|..\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\wallet.common.entities\\amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBCCDF4-C9AE-4E72-B1F5-EF6771F87263}|..\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\fixedwalletfunction.dal.contracts\\iwalletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBCCDF4-C9AE-4E72-B1F5-EF6771F87263}|..\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\fixedwalletfunction.dal.contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFBCCDF4-C9AE-4E72-B1F5-EF6771F87263}|..\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\fixedwalletfunction.dal.contracts\\iuserinputrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35DAA143-BF12-4A5B-89BA-1C29CB66E8D0}|..\\FixedWalletFunction.DAL\\FixedWalletFunction.DAL.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\fixedwalletfunction.dal\\walletrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42CABA3F-71B5-4BD1-B0E2-6A4DF5F70EA8}|..\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\wallet.common.entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97983CD8-97F7-4F94-80A0-A52CB726EA40}|..\\Wallet.BLL\\FixedWalletFunction.BLL.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\wallet.bll\\walletlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97983CD8-97F7-4F94-80A0-A52CB726EA40}|..\\Wallet.BLL\\FixedWalletFunction.BLL.csproj|c:\\users\\user\\desktop\\wlt\\fixedwalletfunction\\wallet.bll\\userlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +34,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IWalletRepository.cs",
+              "RelativeDocumentMoniker": "..\\FixedWalletFunction.DAL.Contracts\\IWalletRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IWalletRepository.cs",
+              "RelativeToolTip": "..\\FixedWalletFunction.DAL.Contracts\\IWalletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:32:20.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\FixedWalletFunction.DAL.Contracts\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "..\\FixedWalletFunction.DAL.Contracts\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:32:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserInputRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IUserInputRepository.cs",
+              "RelativeDocumentMoniker": "..\\FixedWalletFunction.DAL.Contracts\\IUserInputRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\IUserInputRepository.cs",
+              "RelativeToolTip": "..\\FixedWalletFunction.DAL.Contracts\\IUserInputRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:32:17.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WalletRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL\\WalletRepository.cs",
+              "RelativeDocumentMoniker": "..\\FixedWalletFunction.DAL\\WalletRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL\\WalletRepository.cs",
+              "RelativeToolTip": "..\\FixedWalletFunction.DAL\\WalletRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:32:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Amount.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Amount.cs",
+              "RelativeDocumentMoniker": "..\\Wallet.Common.Entities\\Amount.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Amount.cs",
+              "RelativeToolTip": "..\\Wallet.Common.Entities\\Amount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:31:40.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Account.cs",
+              "RelativeDocumentMoniker": "..\\Wallet.Common.Entities\\Account.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Account.cs",
+              "RelativeToolTip": "..\\Wallet.Common.Entities\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:31:37.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WalletLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\WalletLogic.cs",
+              "RelativeDocumentMoniker": "..\\Wallet.BLL\\WalletLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\WalletLogic.cs",
+              "RelativeToolTip": "..\\Wallet.BLL\\WalletLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:31:35.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLogic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\UserLogic.cs",
+              "RelativeDocumentMoniker": "..\\Wallet.BLL\\UserLogic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\UserLogic.cs",
+              "RelativeToolTip": "..\\Wallet.BLL\\UserLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:31:31.66Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
