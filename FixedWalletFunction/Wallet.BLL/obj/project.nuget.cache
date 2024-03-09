@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G+kLQVdPEQtzEnE6fKckK4u6hsFJFUREZ9IxJdd+IE9fh8PZFCmcXRoOpviCaLEX56t5h7NKB6BFB1CuIu5eBw==",
+  "dgSpecHash": "HcgCyjapgXsDTe+dl8Q9xXV7iE/mByYfTzRKPiG6FBA+22uTYdDJYndWrBBlFUdzm7s8dOaUgGtPg+KxyjiMHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FixedWalletFunction.BLL.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98686ab0a97f1c96b3e5674372e1c29d4b90dc34")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168e1f69cf23bd61b533eb5d1681213bb23e1f4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FixedWalletFunction.BLL.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FixedWalletFunction.BLL.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

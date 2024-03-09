@@ -14,3 +14,19 @@ D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWall
 D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\refint\FixedWalletFunction.BLL.Contracts.dll
 D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.pdb
 D:\sergey t\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\ref\FixedWalletFunction.BLL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\FixedWalletFunction.BLL.Contracts.deps.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\FixedWalletFunction.BLL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\FixedWalletFunction.BLL.Contracts.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.AssemblyInfo.cs
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.sourcelink.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWal.9CE9A770.Up2Date
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\refint\FixedWalletFunction.BLL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\FixedWalletFunction.BLL.Contracts.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\IWallet.BLL.Contracts\obj\Debug\net7.0\ref\FixedWalletFunction.BLL.Contracts.dll

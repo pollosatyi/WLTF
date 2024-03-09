@@ -18,3 +18,23 @@ D:\sergey t\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.
 D:\sergey t\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\refint\FixedWalletFunction.BLL.dll
 D:\sergey t\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.pdb
 D:\sergey t\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\ref\FixedWalletFunction.BLL.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.BLL.deps.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.BLL.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.BLL.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.BLL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.DAL.Contracts.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.DAL.Contracts.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\FixedWalletFunction.BLL.Contracts.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.sourcelink.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWal.33065B02.Up2Date
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\refint\FixedWalletFunction.BLL.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\FixedWalletFunction.BLL.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.BLL\obj\Debug\net7.0\ref\FixedWalletFunction.BLL.dll

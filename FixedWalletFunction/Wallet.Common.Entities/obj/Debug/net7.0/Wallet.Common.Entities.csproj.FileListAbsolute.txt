@@ -22,3 +22,15 @@ D:\sergey t\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.C
 D:\sergey t\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\refint\Wallet.Common.Entities.dll
 D:\sergey t\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.pdb
 D:\sergey t\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\ref\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\bin\Debug\net7.0\Wallet.Common.Entities.deps.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\bin\Debug\net7.0\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\bin\Debug\net7.0\Wallet.Common.Entities.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.AssemblyInfo.cs
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.sourcelink.json
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\refint\Wallet.Common.Entities.dll
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\Wallet.Common.Entities.pdb
+C:\Users\User\Desktop\wlt\FixedWalletFunction\Wallet.Common.Entities\obj\Debug\net7.0\ref\Wallet.Common.Entities.dll

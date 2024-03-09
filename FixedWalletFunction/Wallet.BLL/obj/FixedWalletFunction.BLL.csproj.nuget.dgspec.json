@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj": {}
+    "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj": {
+    "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
         "projectName": "FixedWalletFunction.DAL.Contracts",
-        "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
+              "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj": {
+    "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj",
         "projectName": "FixedWalletFunction.BLL.Contracts",
-        "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,8 +102,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
+              "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
               }
             }
           }
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj": {
+    "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
         "projectName": "FixedWalletFunction.BLL",
-        "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.BLL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -171,14 +171,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj"
+              "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj"
               },
-              "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj"
+              "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\IWallet.BLL.Contracts\\FixedWalletFunction.BLL.Contracts.csproj"
               },
-              "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
+              "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj"
               }
             }
           }
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
+    "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj",
         "projectName": "Wallet.Common.Entities",
-        "projectPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\Wallet.Common.Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\Wallet.Common.Entities\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.Common.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

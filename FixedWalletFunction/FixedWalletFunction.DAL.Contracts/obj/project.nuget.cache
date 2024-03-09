@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rvQRNmC+bv4elf4ytym1eSbKvUt/mecUYVVkfjTgb8BjuqEMS+7kpFF06mceLJinPzvKKuqn7Vku/yJHslLybQ==",
+  "dgSpecHash": "DHj+CgEKStPJIsMY1Ej42UReLr9eLZxGoKs/G1nrDGxv8Bsi2qBLeNhniHDG+v+yNzzE+4rxeImvoRdUjy8tNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\FixedWalletFunction.DAL.Contracts\\FixedWalletFunction.DAL.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
