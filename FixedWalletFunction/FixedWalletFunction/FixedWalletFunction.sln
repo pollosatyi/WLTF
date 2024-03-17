@@ -17,9 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixedWalletFunction.BLL", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wallet.Common.Entities", "..\Wallet.Common.Entities\Wallet.Common.Entities.csproj", "{42CABA3F-71B5-4BD1-B0E2-6A4DF5F70EA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedWalletFunction.DAL", "..\FixedWalletFunction.DAL\FixedWalletFunction.DAL.csproj", "{35DAA143-BF12-4A5B-89BA-1C29CB66E8D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixedWalletFunction.DAL", "..\FixedWalletFunction.DAL\FixedWalletFunction.DAL.csproj", "{35DAA143-BF12-4A5B-89BA-1C29CB66E8D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixedWalletFunction.DAL.Contracts", "..\FixedWalletFunction.DAL.Contracts\FixedWalletFunction.DAL.Contracts.csproj", "{EFBCCDF4-C9AE-4E72-B1F5-EF6771F87263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FixedWalletFunction.DAL.Contracts", "..\FixedWalletFunction.DAL.Contracts\FixedWalletFunction.DAL.Contracts.csproj", "{EFBCCDF4-C9AE-4E72-B1F5-EF6771F87263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

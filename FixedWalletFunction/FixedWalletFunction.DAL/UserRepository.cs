@@ -1,25 +1,25 @@
-﻿using FixedWalletFunction.DAL.Contracts;
-using System.Data.SqlClient;
-using Wallet.Common.Entities.User;
+﻿using System.Data.SqlClient;
+using System.Data;
+using Dapper;
 using Wallet.Common.Entities.Users;
+using FixedWalletFunction.DAL.Contracts;
+using Npgsql;
 
 namespace FixedWalletFunction.DAL
 {
     public class UserRepository : IUserRepository
     {
-        public void Add(UserInputModel user)
+
+        public void Add(User user)
         {
             string connectionString = "Data Source=DESKTOP-M2QA1DM\\SQLEXPRESS;Initial Catalog=walbase;User ID=User;Password=;Encrypt=False;Trusted_Connection=True";
 
             // Создание подключения
-            using (SqlConnection connection = new SqlConnection(connectionString))
+            using (IDbConnection db = new NpgsqlConnection(connectionString))
             {
-                string sqlExpression = $"INSERT INTO Wallets (rub) VALUES({user})";
-                connection.Open();
+                var sqlQuery = "INSERT INTO Users (FirstName,LastName,MiddleName,Phone,Age,Sex) VALUES(@FirstName, @LastName, @MiddleName, @Phone, @Age, @Sex)";
+                db.Execute(sqlQuery, user);
 
-                SqlCommand command = new SqlCommand(sqlExpression, connection);
-
-                command.ExecuteNonQuery();
             }
         }
     }

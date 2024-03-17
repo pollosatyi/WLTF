@@ -8,5 +8,7 @@ namespace FixedWalletFunction.DAL
 {
     public class UserInputRepository
     {
+        
+
     }
 }

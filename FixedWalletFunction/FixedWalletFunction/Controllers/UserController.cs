@@ -1,8 +1,6 @@
 ﻿using IUser.Bll;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Wallet.Common.Entities;
-using Wallet.Common.Entities.User;
+using Wallet.Common.Entities.Users;
 
 namespace FixedWalletFunction.Controllers
 {

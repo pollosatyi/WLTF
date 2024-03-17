@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HcgCyjapgXsDTe+dl8Q9xXV7iE/mByYfTzRKPiG6FBA+22uTYdDJYndWrBBlFUdzm7s8dOaUgGtPg+KxyjiMHw==",
+  "dgSpecHash": "WndpPZV+gRojdk4jC9p8ouSsnvLj6LnXsMVzZB5FsMmPCCyFX2Ty9OiwHN7eY6YkzN7SfyAg122UMJKK4IPmmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\sergey t\\wlt\\FixedWalletFunction\\Wallet.BLL\\FixedWalletFunction.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student.TOP\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\student.TOP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\student.TOP\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\student.TOP\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

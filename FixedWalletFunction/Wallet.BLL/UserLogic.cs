@@ -1,6 +1,5 @@
 ﻿using FixedWalletFunction.DAL.Contracts;
 using IUser.Bll;
-using Wallet.Common.Entities.User;
 using Wallet.Common.Entities.Users;
 
 namespace Users.Bll
@@ -15,7 +14,17 @@ namespace Users.Bll
 
         public void Create(UserInputModel user)
         {
-            _userRepository.Add(user);
+            var userDb = new User()
+            {
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                MiddleName = user.MiddleName,
+                Phone = user.Phone,
+                Age = user.Age,
+                Sex = user.Sex
+            };
+
+            _userRepository.Add(userDb);
         }
     }
 }
